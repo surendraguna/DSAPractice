@@ -1,0 +1,25 @@
+1.	Two Pointers
+2.	Hashing
+3.	prefix and sufix arrays
+4.	Modified Binary Search
+5.	Fast & Slow Pointers
+6.	Monotonic Stack
+7.	Sliding Window
+8.	Two Heaps
+9.	In-place Reversal of a Linked List
+10.	Tree Breadth First Search
+11.	Tree Depth First Search
+12.	DP
+13.	GD
+14.	BT
+15.	Island (Matrix Traversal)
+16.	Merge Intervals
+17.	Cyclic Sort
+18.	Subsets
+19.	Top ‘K’ Elements
+20.	Bitwise XOR
+21.	Backtracking
+22.	0/1 Knapsack (Dynamic Programming)
+23.	Topological Sort (Graph)
+24.	K-way Merge
+25.	Multi-threaded
